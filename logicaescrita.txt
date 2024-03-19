@@ -1,0 +1,20 @@
+Algoritmo: Contar Vogais
+
+1. Início
+2. Definir função contarVogais(texto)3.    Converter o texto para letras minúsculas
+4.    Criar um array com as vogais ['a', 'e', 'i', 'o', 'u']
+5.    Criar um objeto vazio para armazenar a contagem de cada vogal
+6.    Para cada vogal no array de vogais
+7.        Inicializar o contador da vogal como 0 no objeto detectordevogais
+8.    Para cada caractere no texto
+9.        Se o caractere for uma vogal
+10.           Incrementar o contador da vogal correspondente no objeto detectordevogais
+11.   Fim do loop
+12.   Exibir no console a contagem de vogais
+13.   Para cada vogal no array de vogais
+14.       Exibir a vogal e sua contagem no console
+15.   Fim do loop
+16. Fim da função
+17. Definir uma frase para análise (por exemplo, "Thiago")
+18. Chamar a função contarVogais passando a frase como argumento
+19. Fim
